@@ -17,7 +17,7 @@ verify `localhost-key.pem` and `lcoalhost.pem` were created on app root
 
 ### .env content
 
-create file `.env` file on root with following content
+create `.env` file on root with following content
 
 ```env
 NEXT_PUBLIC_LIFF_ID="xxxx"
